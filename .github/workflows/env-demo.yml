@@ -1,4 +1,4 @@
-name: Env-demo
+name: Env Demo
 
 on:
   workflow_dispatch
